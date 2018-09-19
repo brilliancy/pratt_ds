@@ -7,7 +7,7 @@
 
 ## Uses of Data Science
 Inline-style: 
-![alt text](/fb_facing_facts.png "facebook fake news")
+![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/fb_facing_facts.png "facebook fake news")
 
 
 
