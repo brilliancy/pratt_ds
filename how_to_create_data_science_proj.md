@@ -6,19 +6,22 @@
 - As we collected more data we also increased our processing power (Moore's Law) these tools became more applicable
 
 ## Uses of Data Science
-Facebooks newsfood algorithm
+### Facebooks newsfood algorithm
 - Rohingya crisis
 - US elections 
+
 Inline-style: 
 ![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/fb_facing_facts.png "facebook fake news")
 
-Gentrification and the Criminalization of Neighborhoods 
+### Gentrification and the Criminalization of Neighborhoods 
+
 Inline-style: 
 ![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/gentrification.png "criminalization of gentrification")
 
-Art turing test
-![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/art_turing.png "art turing")
+### Art turing test
 
+![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/art_turing.png "art turing")
+https://www.technologyreview.com/s/608195/machine-creativity-beats-some-modern-art/
 
 
 
@@ -65,6 +68,8 @@ Going from the descriptive(plots and graphs) to the prescriptive. Predict what s
 
 ![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/hist2.png "hist2")
 
+![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/math_destruction.png "math_destruction")
+
 ![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/linear1.png "linear1")
 
 ![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/linear2.png "linear2")
@@ -75,9 +80,12 @@ Going from the descriptive(plots and graphs) to the prescriptive. Predict what s
 
 ## Communication
 - Know your audience
-- Be succint 
+- Be succinct 
 - "You can know the name of a bird in all the languages of the world, but when you’re finished, you’ll know absolutely nothing whatever about the bird"
 
 ## Example:
 https://www.kaggle.com/ash316/ml-from-scratch-with-iris
 
+## Good References
+- https://fivethirtyeight.com/
+- https://distill.pub/
