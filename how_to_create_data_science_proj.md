@@ -23,7 +23,7 @@ Inline-style:
 ![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/art_turing.png "art turing")
 https://www.technologyreview.com/s/608195/machine-creativity-beats-some-modern-art/
 
-
+![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/math_destruction.png "math_destruction")
 
 # How to create your own data project
 ![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/data_wheel.png "data wheel")
@@ -67,8 +67,6 @@ Going from the descriptive(plots and graphs) to the prescriptive. Predict what s
 ![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/hist1.png "hist1")
 
 ![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/hist2.png "hist2")
-
-![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/math_destruction.png "math_destruction")
 
 ![alt text](https://github.com/brilliancy/pratt_ds/blob/master/img/linear1.png "linear1")
 
